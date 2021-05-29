@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hely10086.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-03-22T14:48:06.059Z</updated>
+    <title>荷林的窝窝</title>
+    <updated>2021-05-29T14:48:38.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hely10086.github.io"/>
     <link rel="self" href="https://hely10086.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://hely10086.github.io/images/avatar.png</logo>
     <icon>https://hely10086.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 荷林的窝窝</rights>
+    <entry>
+        <title type="html"><![CDATA[ML IN ACTION char1]]></title>
+        <id>https://hely10086.github.io/post/ml-in-action-char1/</id>
+        <link href="https://hely10086.github.io/post/ml-in-action-char1/">
+        </link>
+        <updated>2021-05-29T14:43:19.000Z</updated>
+        <content type="html"><![CDATA[<p>监督学习的分类：分类(一般用于离散数据)与回归(结果是连续数据)</p>
+<p>非监督学习用途：清洗数据，密度估计</p>
+<p>监督学习的典型特征：数据具有feature和target varieble</p>
+<p>非监督学习的数据特征：簇</p>
+<p>一般监督学习进行的算法：KNN,Naive Bayes；Support vector machines，Decision trees，Linear，Locally weighted linear，Ridge，Lasso</p>
+<p>非监督学习的算法使用：K-Means，expectation maximization，DBSCAN,Parzen window</p>
+<p>机器学习的一般步骤：收集数据，整理格式化数据，，人为事先清理数据，训练算法，测试算法</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试文件档]]></title>
         <id>https://hely10086.github.io/post/ce-shi-wen-jian-dang/</id>
